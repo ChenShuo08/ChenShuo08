@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm ChenShuo 👋
+
+> Building tools that turn AI demos into real products, and MoonBit dev experience tooling.
+
+- 🔭 Currently working on **MoonBit** developer tools and **open-source backend** infrastructure.
+- 🌱 Learning more about **AI-native backends**, **edge functions**, and **agent-driven development**.
+- 👯 Looking to collaborate on **MoonBit**, **developer experience**, and **AI coding tools**.
+- 💬 Ask me about **MoonBit**, **Hackathon projects**, **CLI tools**, and **self-hosted backend stacks**.
+- 📫 Reach me at **3084258910@qq.com**
+
+---
+
+## 🛠 Tech Stack
+
+![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Language | Badges |
+| --- | --- | --- | --- |
+| **[moonaudit](https://github.com/ChenShuo08/moonaudit)** | Local MoonBit project structure audit CLI with plain/json/markdown reports and ignore-file support. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
+| **[Nubase](https://github.com/OtterMind/Nubase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
+| **[Moon ELK](https://github.com/ChenShuo08/moon_elk)** | Eclipse Layout Kernel MoonBit port for graph layout, diagramming, and visualization tooling. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | Planned |
+| **[mb-transformer](https://github.com/ChenShuo08/mb-transformer)** | Structured content translation and transformation tooling for MoonBit. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | In progress |
+
+---
+
+## 📈 GitHub Stats
 
 <!--
-**ChenShuo08/ChenShuo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![ChenShuo08's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenShuo08&show_icons=true&hide_title=false&count_private=true)
 -->
+
+| Metric | Value |
+| --- | --- |
+| Repos | [ChenShuo08](https://github.com/ChenShuo08?tab=repositories) |
+| Profile | [github.com/ChenShuo08](https://github.com/ChenShuo08) |
+| Focus | MoonBit, AI-native backend, developer experience |
+
+---
+
+## 💡 Fun Facts
+
+- I enjoy turning messy project structures into clean, review-ready setups.
+- I care more about local dev experience than fancy landing pages.
+- I like small, focused CLI tools over big frameworks.
+
+---
+
+## 📄 License
+
+Unless stated otherwise, my projects are released under the **Apache-2.0** license.
