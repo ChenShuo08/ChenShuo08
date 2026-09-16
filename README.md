@@ -25,8 +25,8 @@
 
 | Project | Description | Language | Badges |
 | --- | --- | --- | --- |
-| **[Nobase](https://github.com/ChenShuo08/NoBase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
-| **[moonaudit](https://github.com/ChenShuo08/moonaudit)** | Local MoonBit project structure audit CLI with plain/json/markdown reports and ignore-file support. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
+| **[NoBase](https://github.com/ChenShuo08/NoBase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
+| **[MoonAudit](https://github.com/ChenShuo08/moonaudit)** | Local MoonBit project structure audit CLI with plain/json/markdown reports and ignore-file support. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
 
 ---
 
