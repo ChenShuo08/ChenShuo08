@@ -1,18 +1,16 @@
 # Hi, I'm ChenShuo 👋
 
-> Building tools that turn AI demos into real products, and MoonBit dev experience tooling.
+> Building tools that turn AI demos into real products.
 
 - 🔭 Currently working on **Nobase** — an AI-native backend and deploy layer.
 - 🌱 Learning more about **AI-native backends**, **edge functions**, and **agent-driven development**.
-- 👯 Looking to collaborate on **MoonBit**, **developer experience**, and **AI coding tools**.
-- 💬 Ask me about **MoonBit**, **Hackathon projects**, **CLI tools**, and **self-hosted backend stacks**.
+- 👯 Looking to collaborate on **developer experience**, and **AI coding tools**.
 - 📫 Reach me at **g1ker@qq.com**
 
 ---
 
 ## 🛠 Tech Stack
 
-![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
@@ -27,7 +25,7 @@
 
 | Project | Description | Language | Badges |
 | --- | --- | --- | --- |
-| **[Nobase](https://github.com/OtterMind/Nubase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
+| **[Nobase](https://github.com/ChenShuo08/NoBase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
 | **[moonaudit](https://github.com/ChenShuo08/moonaudit)** | Local MoonBit project structure audit CLI with plain/json/markdown reports and ignore-file support. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
 
 ---
@@ -42,7 +40,7 @@
 | --- | --- |
 | Repos | [ChenShuo08](https://github.com/ChenShuo08?tab=repositories) |
 | Profile | [github.com/ChenShuo08](https://github.com/ChenShuo08) |
-| Focus | MoonBit, AI-native backend, developer experience |
+| Focus | AI-native backend, developer experience |
 
 ---
 
