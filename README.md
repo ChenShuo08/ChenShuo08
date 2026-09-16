@@ -2,11 +2,11 @@
 
 > Building tools that turn AI demos into real products, and MoonBit dev experience tooling.
 
-- 🔭 Currently working on **MoonBit** developer tools and **open-source backend** infrastructure.
+- 🔭 Currently working on **Nobase** — an AI-native backend and deploy layer.
 - 🌱 Learning more about **AI-native backends**, **edge functions**, and **agent-driven development**.
 - 👯 Looking to collaborate on **MoonBit**, **developer experience**, and **AI coding tools**.
 - 💬 Ask me about **MoonBit**, **Hackathon projects**, **CLI tools**, and **self-hosted backend stacks**.
-- 📫 Reach me at **3084258910@qq.com**
+- 📫 Reach me at **g1ker@qq.com**
 
 ---
 
@@ -27,10 +27,8 @@
 
 | Project | Description | Language | Badges |
 | --- | --- | --- | --- |
+| **[Nobase](https://github.com/OtterMind/Nubase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
 | **[moonaudit](https://github.com/ChenShuo08/moonaudit)** | Local MoonBit project structure audit CLI with plain/json/markdown reports and ignore-file support. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
-| **[Nubase](https://github.com/OtterMind/Nubase)** | AI-native backend and deploy layer with Database, Auth, Storage, Assets, Functions, AI Gateway, Memory, and cron. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | [![License](https://img.shields.io/badge/License-Apache_2.0-10A074.svg)](LICENSE) |
-| **[Moon ELK](https://github.com/ChenShuo08/moon_elk)** | Eclipse Layout Kernel MoonBit port for graph layout, diagramming, and visualization tooling. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | Planned |
-| **[mb-transformer](https://github.com/ChenShuo08/mb-transformer)** | Structured content translation and transformation tooling for MoonBit. | ![MoonBit](https://img.shields.io/badge/MoonBit-000000?logo=moon&logoColor=white) | In progress |
 
 ---
 
